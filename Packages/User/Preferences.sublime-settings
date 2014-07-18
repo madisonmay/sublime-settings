@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"tab_size": 4,
+	"theme": "Devastate.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
